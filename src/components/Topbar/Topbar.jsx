@@ -1,7 +1,7 @@
 import React from "react";
 import "./Topbar.css";
 import { Notifications, Language, Settings } from "@mui/icons-material";
-import myphoto from '/media/salman/main/projects/react-admin/project/client/src/assets/images/my_photo.jpg'; 
+import myphoto from 'E:/mern/react-admin/src/assets/images/my_photo.jpg'; 
 
 function Topbar() {
   return (
